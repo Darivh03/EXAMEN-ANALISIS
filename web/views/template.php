@@ -33,7 +33,7 @@ $path = TemplateController::path();
       include 'pages/contact/contact.php';
       include 'modules/footer.php';
       include 'modules/copyright.php';
-      include 'login.php';
+      include 'pages/login/login.php';
 
       ?>
     </div>
